@@ -1,12 +1,12 @@
-## Deep-Learning
-#The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
+# Deep-Learning
+## The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
 
 In this Specialization, I have built and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. I had the chance to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more.
 
 AI is transforming many industries. The Deep Learning Specialization provides a pathway for me to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up my career. Along the way, I got career advice from deep learning experts from industry and academia.
 
 
-#Projects:
+## Projects:
 
  • Build and train deep neural networks, implement vectorized neural networks, identify architecture parameters, and apply DL to your applications
 
